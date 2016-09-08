@@ -31,7 +31,7 @@ public class Survey {
 
         printQuestions();
 
-        System.out.println("Press [Enter] to being the survey.");
+        System.out.println("Press [Enter] to begin the survey.");
         scanner.nextLine();
 
         System.out.println(question1);
